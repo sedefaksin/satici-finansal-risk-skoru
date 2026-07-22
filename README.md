@@ -235,25 +235,6 @@ The dashboard follows a corporate design system (Primary `#0052CC`, Success/Warn
 
 ---
 
-## 📁 Repository Structure
-
-```
-📦 satici-finansal-risk-skoru
- ├── sql/
- │   └── risk_skoru_sorgusu.sql
- ├── python/
- │   └── analiz_ve_gorsellestirme.py
- ├── powerbi/
- │   └── satici_dashboard.pbix
- ├── images/
- │   └── (dashboard screenshots)
- ├── kilavuz/
- │   └── metodoloji.md
- ├── README.md
- └── requirements.txt
-```
-
----
 
 ## ⚙️ Installation
 
@@ -313,19 +294,6 @@ python python/analiz_ve_gorsellestirme.py
 
 ---
 
-## 📸 Screenshots
-
-| Page | File |
-|---|---|
-| Executive Overview | `images/executive_overview.png` |
-| Sales Performance | `images/sales_performance.png` |
-| Risk Analysis | `images/risk_analysis.png` |
-| Seller Analysis | `images/seller_analysis.png` |
-| Geographic Analysis | `images/geographic_analysis.png` |
-| Operational Metrics | `images/operational_metrics.png` |
-| Seller Detail (Drill-Through) | `images/seller_detail.png` |
-
----
 
 ## 👤 Author
 
@@ -334,7 +302,6 @@ Management Information Systems Student | Aspiring Data Analyst
 
 - GitHub: [github.com/sedefaksin](https://github.com/sedefaksin)
 - LinkedIn: [linkedin.com/in/sedefaksin](https://linkedin.com/in/sedefaksin)
-- Portfolio: *add link*
 
 ---
 
